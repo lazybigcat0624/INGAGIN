@@ -27,7 +27,7 @@ const portfolioItems = [
   {
     id: 4,
     title: "Poememe",
-    description: "INGAGIN invests in Poememe, funding the expansion of its NFT marketplace for writers and artists, enabling blockchain-secured publishing, creator monetization, and the fusion of poetry with digital art.",
+    description: "INGAGIN advises Poememe,  expansion of its community for writers and artists and poets, to acerate the fusion of poetry and digital art.",
     link: "https://www.poememe.com",
     linkText: "Visit www.poememe.com",
   },
@@ -130,6 +130,13 @@ const portfolioItems = [
     linkText: "Visit www.hyperapes.com",
   },
   {
+    id: 25,
+    title: "Ghosts Land",
+    description: "INGAGIN invests in Ghosts Land, supporting the development of its immersive GameFi universe and NFT ecosystem, where legendary warriors, spiritual alliances, and player-bound partnerships converge to shape a living world that influences real-world destiny.",
+    link: "https://www.ghostsland.com",
+    linkText: "Visit www.ghostsland.com",
+  },
+  {
     id: 22,
     title: "GIRL CLOUD",
     description: "INGAGIN provides strategic advisory and business development support to GIRL CLOUD, a women-led community focused on Web3, NFTs, crypto, and digital creation. Through this partnership, INGAGIN advises on platform growth, community structuring, visibility strategy, and long-term ecosystem development—helping GIRL CLOUD scale responsibly while maintaining a creator-first, community-driven mission.",
@@ -142,6 +149,20 @@ const portfolioItems = [
     description: "A digital collectible venture centered on premium gemstone-inspired NFTs. Crypt Stones creates rare, high-value digital assets and immersive collectibles powered by blockchain, offering collectors a unique fusion of art, rarity, and Web3 innovation.",
     link: "https://www.cryptstones.com",
     linkText: "Visit www.cryptstones.com",
+  },
+  {
+    id: 26,
+    title: "Survivalful",
+    description: "INGAGIN advises Survivalful, providing strategic guidance and B2B introductions to accelerate the growth of its preparedness platform and NFT ecosystem, where survival intelligence, resilience training, and community-driven readiness converge to empower proactive individuals worldwide.",
+    link: "https://www.Survivalful.com",
+    linkText: "Visit www.Survivalful.com",
+  },
+  {
+    id: 23,
+    title: "Song Meme",
+    description: "A viral music and meme-powered Web3 platform where songs become culture. INGAGIN advises on community growth, creator incentives, and tokenized engagement to help music spread through digital virality.",
+    link: "https://www.songmeme.com",
+    linkText: "Visit www.songmeme.com",
   },
   {
     id: 17,
@@ -157,6 +178,20 @@ const portfolioItems = [
     link: "https://www.MicroLendr.com",
     linkText: "Visit www.MicroLendr.com",
   },
+  {
+    id: 24,
+    title: "CBD EXC",
+    description: "INGAGIN provides strategic advisory and business development support to CBD EXC, helping shape its growth as a trusted, compliant directory for cannabis dispensaries and cannabis-related companies. Through guidance on platform strategy, advertiser onboarding, verification frameworks, and marketplace positioning, INGAGIN supports CBD EXC in building a credible, scalable, and transparent ecosystem that connects consumers with verified cannabis businesses.",
+    link: "https://www.cbdexc.com",
+    linkText: "Visit www.cbdexc.com",
+  },
+  {
+    id: 27,
+    title: "Zombies Land",
+    description: "INGAGIN partners with Zombies Land as a strategic advisor, guiding blockchain infrastructure, NFT architecture, and long-form IP development to strengthen its 2,444-piece post-apocalyptic collection, enhance faction-based storytelling mechanics, and accelerate Web3 ecosystem expansion within the AI-versus-undead universe.",
+    link: "https://www.zombiesland.com",
+    linkText: "Visit www.zombiesland.com",
+  }
 ];
 
 export default function PortfolioGrid() {
